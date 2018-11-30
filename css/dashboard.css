@@ -141,7 +141,7 @@
 }
 
 .daterangepicker td.active, .daterangepicker td.active:hover {
-	background-color: #91d0cc;
+	background-color: #333333;
 	border-color: transparent;
 	color: #fff;
 }
@@ -242,14 +242,14 @@
 }
 
 .ranges li:hover {
-	background-color: #91d0cc;
-	border: 1px solid #91d0cc;
+	background-color: #333333;
+	border: 1px solid #333333;
 	color: #fff;
 }
 
 .ranges li.active {
-	background-color: #91d0cc;
-	border: 1px solid #91d0cc;
+	background-color: #333333;
+	border: 1px solid #333333;
 	color: #fff;
 }
 
@@ -757,7 +757,7 @@ hr.fc-divider {
 }
 
 .fc a[data-goto]:hover {
-  color: #91d0cc;
+  color: #333333;
 }
 
 /* Fake Table Rows

@@ -49,11 +49,11 @@ input[disabled] {
 
 #toggle_shop_view:after {
 	content: "\f03a";
-	background-color: #91d0cc;
+	background-color: #333333;
 }
 
 #toggle_shop_view.grid-view:before {
-	background-color: #91d0cc;
+	background-color: #333333;
 }
 
 #toggle_shop_view.grid-view:after {
@@ -195,7 +195,7 @@ li.product {
 }
 
 .product [class*="col-"]:first-child .onsale {
-	background-color: #91d0cc;
+	background-color: #333333;
 	left: 20px;
 	bottom: 20px;
 	right: auto;
@@ -249,7 +249,7 @@ li.product {
 	font-size: 0;
 	color: transparent;
 	text-align: center;
-	background-color: #91d0cc;
+	background-color: #333333;
 }
 
 .product-buttons a.loading [class*='rt-icon'], .product-buttons a.loading:before {
@@ -299,7 +299,7 @@ li.product {
 }
 
 .product-buttons a.added_to_cart:hover {
-	background-color: #91d0cc;
+	background-color: #333333;
 }
 
 .product-buttons a.added_to_cart:before {
@@ -594,7 +594,7 @@ li.product {
 
 .star-rating span:before {
 	position: absolute;
-	color: #91d0cc;
+	color: #333333;
 }
 
 p.stars a:before, p.stars a:hover ~ a:before {
@@ -630,7 +630,7 @@ p.stars a:before {
 
 p.stars.selected a.active:before, p.stars:hover a:before {
 	content: "\e7aa";
-	color: #91d0cc;
+	color: #333333;
 	opacity: 1;
 }
 
@@ -642,7 +642,7 @@ p.stars.selected a.active ~ a:before {
 
 p.stars.selected a:not(.active):before {
 	content: "\e7aa";
-	color: #91d0cc;
+	color: #333333;
 	opacity: 1;
 }
 
@@ -1062,8 +1062,8 @@ table.cart .product-remove {
 }
 
 .woocommerce-MyAccount-navigation .is-active a {
-	background-color: #91d0cc;
-	border-color: #91d0cc;
+	background-color: #333333;
+	border-color: #333333;
 }
 
 .woocommerce-MyAccount-content h2 {
@@ -1142,7 +1142,7 @@ table.cart .product-remove {
 }
 
 .widget_price_filter .ui-slider-range {
-	background-color: #91d0cc;
+	background-color: #333333;
 }
 
 .widget_price_filter .ui-slider-horizontal {
